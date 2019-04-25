@@ -7,12 +7,14 @@
 - [NetEase](http://nec.netease.com/standard/css-practice.html)
 - [CSS BEM 书写规范](https://github.com/Tencent/tmt-workflow/wiki)
 - [Bootstrap 编码规范](https://codeguide.bootcss.com)
+- [JSDoc 中文文档](https://www.html.cn/doc/jsdoc/tags-example.html)
+- []()
 
 -----
 
 - [Jquery代码组织方法优化](https://blog.csdn.net/qq_36370731/article/details/82819968)
 - [使用jQuery时如何更好的组织代码？](https://www.zhihu.com/question/26348002/answer/32617352)
-
+- [Code optimization and organization in Javascript / jQuery](https://www.innofied.com/code-optimization-organization-javascript-jquery/)
 
 ```js
 
