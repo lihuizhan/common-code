@@ -31,3 +31,8 @@
 >god use vpn
 
 - [基于 JS 实现的网络调试工具](https://zjcqoo.github.io/) https://juejin.im/pin/5cc01016092dcb1097b5e624
+
+
+### vscode
+
+- [提高 JavaScript 开发效率的高级 VSCode 扩展之二！](https://segmentfault.com/a/1190000017935676)
